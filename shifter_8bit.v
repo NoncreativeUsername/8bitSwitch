@@ -8,7 +8,7 @@
 // Module Name: shifter_8bit
 // Project Name: 
 // Target Devices: 
-// Tool Versions: 
+// Tool Versions: Xilinx Vivado 2020.2
 // Description: shift or rotate 8 switch inputs to 8 leds, sw[9:8] : shift ammount, sw[10]: direction, sw[11]: rotate, btn[0]: fill bit
 // 
 // Dependencies: 
