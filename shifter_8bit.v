@@ -1,24 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Gunnar Pederson
-// 
-// Create Date: 05/26/2021 04:11:28 PM
-// Design Name: 
-// Module Name: shifter_8bit
-// Project Name: 
-// Target Devices: 
-// Tool Versions: Xilinx Vivado 2020.2
-// Description: shift or rotate 8 switch inputs to 8 leds, sw[9:8] : shift ammount, sw[10]: direction, sw[11]: rotate, btn[0]: fill bit
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module shifter_8bit(
     input [11:0] sw,
